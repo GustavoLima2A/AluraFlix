@@ -2,6 +2,7 @@ body {
     color:white;
     background: black;
     margin: 0px;
+    
 }
 
 header {
@@ -9,4 +10,5 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228)
+
 }
